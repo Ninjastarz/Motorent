@@ -1,0 +1,10 @@
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.AddVehicleForm.resources
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.MainForm.resources
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.Properties.Resources.resources
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.csproj.GenerateResource.Cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\bin\Debug\OSTFinalProject.exe.config
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\bin\Debug\OSTFinalProject.exe
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\bin\Debug\OSTFinalProject.pdb
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.exe
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\Motorent\OSTFinalProject\obj\Debug\OSTFinalProject.pdb
