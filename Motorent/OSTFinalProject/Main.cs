@@ -20,16 +20,22 @@ namespace OSTFinalProject
 
         private void BtnAddVehicle_Click(object sender, EventArgs e)
         {
-            AddVehicleForm f1 = new AddVehicleForm();
-            this.Hide();
-            f1.Show();
+            AddVehicleForm VehicleForm = new AddVehicleForm(VehicleList);
+            VehicleForm.ShowDialog();
         }
 
         private void BtnAddJourney_Click(object sender, EventArgs e)
         {
-            RegisterJourneyForm f1 = new RegisterJourneyForm();
-            this.Hide();
-            f1.Show();
+            RegisterJourneyForm JourneyForm = new RegisterJourneyForm(VehicleList);
+            JourneyForm.ShowDialog();
+        }
+
+        private void btnDisplay_Click(object sender, EventArgs e)
+        {
+            foreach (Vehicle v in VehicleList)
+            {
+                listBox1.Items.Add($"{v.Manufacturer}, {v.Model}, {v.RegistrationNo}, {v.Year}, {v.ServicesDone(v.KilometersTraveled)}, {v.KilometersTraveled}, {v.FuelEconomy}");
+            }
         }
     }
 }

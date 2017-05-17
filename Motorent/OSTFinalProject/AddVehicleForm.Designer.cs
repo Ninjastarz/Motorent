@@ -44,34 +44,38 @@
             // txtManufacturer
             // 
             this.txtManufacturer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtManufacturer.Location = new System.Drawing.Point(239, 121);
+            this.txtManufacturer.Location = new System.Drawing.Point(319, 149);
+            this.txtManufacturer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtManufacturer.Name = "txtManufacturer";
-            this.txtManufacturer.Size = new System.Drawing.Size(186, 26);
+            this.txtManufacturer.Size = new System.Drawing.Size(247, 30);
             this.txtManufacturer.TabIndex = 0;
             // 
             // txtModel
             // 
             this.txtModel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtModel.Location = new System.Drawing.Point(239, 163);
+            this.txtModel.Location = new System.Drawing.Point(319, 201);
+            this.txtModel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtModel.Name = "txtModel";
-            this.txtModel.Size = new System.Drawing.Size(186, 26);
+            this.txtModel.Size = new System.Drawing.Size(247, 30);
             this.txtModel.TabIndex = 1;
             // 
             // txtMakeYear
             // 
             this.txtMakeYear.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMakeYear.Location = new System.Drawing.Point(239, 204);
+            this.txtMakeYear.Location = new System.Drawing.Point(319, 251);
+            this.txtMakeYear.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtMakeYear.Name = "txtMakeYear";
-            this.txtMakeYear.Size = new System.Drawing.Size(186, 26);
+            this.txtMakeYear.Size = new System.Drawing.Size(247, 30);
             this.txtMakeYear.TabIndex = 2;
             // 
             // lblManufacturer
             // 
             this.lblManufacturer.AutoSize = true;
             this.lblManufacturer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblManufacturer.Location = new System.Drawing.Point(108, 121);
+            this.lblManufacturer.Location = new System.Drawing.Point(144, 149);
+            this.lblManufacturer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblManufacturer.Name = "lblManufacturer";
-            this.lblManufacturer.Size = new System.Drawing.Size(125, 24);
+            this.lblManufacturer.Size = new System.Drawing.Size(158, 29);
             this.lblManufacturer.TabIndex = 3;
             this.lblManufacturer.Text = "Manufacturer:";
             // 
@@ -79,9 +83,10 @@
             // 
             this.lblModel.AutoSize = true;
             this.lblModel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblModel.Location = new System.Drawing.Point(165, 163);
+            this.lblModel.Location = new System.Drawing.Point(220, 201);
+            this.lblModel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblModel.Name = "lblModel";
-            this.lblModel.Size = new System.Drawing.Size(68, 24);
+            this.lblModel.Size = new System.Drawing.Size(87, 29);
             this.lblModel.TabIndex = 4;
             this.lblModel.Text = "Model:";
             // 
@@ -89,9 +94,10 @@
             // 
             this.lblMakeYear.AutoSize = true;
             this.lblMakeYear.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMakeYear.Location = new System.Drawing.Point(128, 204);
+            this.lblMakeYear.Location = new System.Drawing.Point(171, 251);
+            this.lblMakeYear.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMakeYear.Name = "lblMakeYear";
-            this.lblMakeYear.Size = new System.Drawing.Size(105, 24);
+            this.lblMakeYear.Size = new System.Drawing.Size(135, 29);
             this.lblMakeYear.TabIndex = 5;
             this.lblMakeYear.Text = "Make Year:";
             // 
@@ -99,45 +105,51 @@
             // 
             this.lblRegoNo.AutoSize = true;
             this.lblRegoNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegoNo.Location = new System.Drawing.Point(90, 242);
+            this.lblRegoNo.Location = new System.Drawing.Point(120, 298);
+            this.lblRegoNo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblRegoNo.Name = "lblRegoNo";
-            this.lblRegoNo.Size = new System.Drawing.Size(143, 24);
+            this.lblRegoNo.Size = new System.Drawing.Size(186, 29);
             this.lblRegoNo.TabIndex = 6;
             this.lblRegoNo.Text = "Registration No:";
             // 
             // txtRegoNo
             // 
             this.txtRegoNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtRegoNo.Location = new System.Drawing.Point(239, 242);
+            this.txtRegoNo.Location = new System.Drawing.Point(319, 298);
+            this.txtRegoNo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtRegoNo.Name = "txtRegoNo";
-            this.txtRegoNo.Size = new System.Drawing.Size(186, 26);
+            this.txtRegoNo.Size = new System.Drawing.Size(247, 30);
             this.txtRegoNo.TabIndex = 7;
             // 
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.Location = new System.Drawing.Point(163, 41);
+            this.lblTitle.Location = new System.Drawing.Point(217, 50);
+            this.lblTitle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(256, 31);
+            this.lblTitle.Size = new System.Drawing.Size(321, 39);
             this.lblTitle.TabIndex = 8;
             this.lblTitle.Text = "Vehicle Registration";
             // 
             // btnRegisterVehicle
             // 
             this.btnRegisterVehicle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegisterVehicle.Location = new System.Drawing.Point(215, 292);
+            this.btnRegisterVehicle.Location = new System.Drawing.Point(287, 359);
+            this.btnRegisterVehicle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRegisterVehicle.Name = "btnRegisterVehicle";
-            this.btnRegisterVehicle.Size = new System.Drawing.Size(139, 32);
+            this.btnRegisterVehicle.Size = new System.Drawing.Size(185, 39);
             this.btnRegisterVehicle.TabIndex = 9;
             this.btnRegisterVehicle.Text = "Register Vehicle";
             this.btnRegisterVehicle.UseVisualStyleBackColor = true;
+            this.btnRegisterVehicle.Click += new System.EventHandler(this.btnRegisterVehicle_Click);
             // 
             // btnBack
             // 
-            this.btnBack.Location = new System.Drawing.Point(12, 12);
+            this.btnBack.Location = new System.Drawing.Point(16, 15);
+            this.btnBack.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(82, 26);
+            this.btnBack.Size = new System.Drawing.Size(109, 32);
             this.btnBack.TabIndex = 59;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = true;
@@ -145,9 +157,9 @@
             // 
             // AddVehicleForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(564, 362);
+            this.ClientSize = new System.Drawing.Size(752, 446);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnRegisterVehicle);
             this.Controls.Add(this.lblTitle);
@@ -159,7 +171,7 @@
             this.Controls.Add(this.txtMakeYear);
             this.Controls.Add(this.txtModel);
             this.Controls.Add(this.txtManufacturer);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "AddVehicleForm";
             this.Text = "AddVehicleForm";
             this.ResumeLayout(false);

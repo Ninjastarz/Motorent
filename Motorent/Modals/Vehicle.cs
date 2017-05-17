@@ -41,9 +41,9 @@ namespace Modals
             TotalFuelPurchased += fp.PurchasedAmount;
         }
         public void CalcFuelEconomy()
-        {
-            int kpl = (Convert.ToInt32(KilometersTraveled) / TotalFuelPurchased) * 100;
-            FuelEconomy = $"{kpl}L/100km";
+        {          
+                int kpl = (Convert.ToInt32(KilometersTraveled) / TotalFuelPurchased) * 100;
+                FuelEconomy = $"{kpl}L/100km";
         }
         public void PrintToScreen()
         {
